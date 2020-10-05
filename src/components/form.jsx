@@ -42,7 +42,7 @@ class Form extends React.Component {
     }
     render() {
         console.log(this.state.getdata);
-        const translate=this.state.getdata.slice(0,2).map(item => (<Translate word={item.word} definition={item.definition} />))
+        const translate=this.state.getdata.slice(0,1).map(item => (<Translate word={item.word} definition={item.definition} />))
         return (
             <div class="full">
                 <div class="searchForm">
