@@ -16,7 +16,7 @@ function Navbar() {
                 </div>
             </div>
         </div>
-            <a href="https://youtu.be/7d2XsPSjjjI" target="_blank"><footer>
+            <a href="https://www.youtube.com/channel/UCbpLgFV3aMgaV7LFo-AvnRg" target="_blank"><footer>
                 <div class="texto">
                     <span>
                     <i class="fab fa-youtube"></i>
