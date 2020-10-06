@@ -9,7 +9,7 @@
 - Just enter a word in the search bar.
 - And get the most sarcastic definitions ever.
 
-![Dictionary4You](src\images\dict.PNG)
+![Dictionary4You](src/images/dict.PNG)
 
 ## Thanks
   
