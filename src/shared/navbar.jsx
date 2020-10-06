@@ -3,7 +3,6 @@ import "./navbar.scss";
 
 function Navbar() {
     return (
-        <div>
         <div class="Container">
             <div class="box">
                 <div class="title">
@@ -15,15 +14,6 @@ function Navbar() {
                         <p>Learn-Sleep-Repeat</p>
                 </div>
             </div>
-        </div>
-            <a href="https://www.youtube.com/channel/UCbpLgFV3aMgaV7LFo-AvnRg" target="_blank"><footer>
-                <div class="texto">
-                    <span>
-                    <i class="fab fa-youtube"></i>
-                watch on youtube</span>
-                </div>
-        </footer>
-        </a>
         </div>
     );
 }
